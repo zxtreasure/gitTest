@@ -5,3 +5,4 @@ learning git
 4th update
 branch test
 no confict
+int a = 2/0;
