@@ -4,4 +4,4 @@ learning git
 3th update
 4th update
 branch test
-comfict and master
+no confict
