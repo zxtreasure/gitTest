@@ -4,3 +4,4 @@ learning git
 3th update
 4th update
 branch test
+dev & master
